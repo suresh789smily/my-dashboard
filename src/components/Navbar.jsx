@@ -111,6 +111,12 @@ function Navbar() {
           </li>
 
           <li>
+            <a href="#dailyupdates">
+              Daily Updates
+            </a>
+          </li>
+
+          <li>
             <a href="#contact">Contact</a>
           </li>
 
